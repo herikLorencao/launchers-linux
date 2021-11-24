@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Apache JMeter
+Comment=Performance Test Tool HTTP
+Exec=/home/itix/Programas/apache-jmeter-5.4.1/bin/jmeter
+Icon=/home/itix/Programas/apache-jmeter-5.4.1/docs/images/favicon.png
+Type=Application
+StartupNotify=true
+Categories=Development;Utility;
+StartupWMClass=postman
+MimeType=x-scheme-handler/postman
+Terminal=false

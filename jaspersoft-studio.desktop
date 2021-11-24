@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Jaspersoft Studio Community Edition
+Comment=Report Java Generator
+GenericName=Text Editor
+Exec=/home/itix/Programas/TIB_js-studiocomm_6.18.1/runjss.sh
+Icon=/home/itix/Programas/TIB_js-studiocomm_6.18.1/icon.xpm
+Type=Application
+StartupNotify=false
+StartupWMClass=Code
+Categories=Utility;TextEditor;Development;IDE;
+MimeType=text/plain;inode/directory;application/x-visual-studio-code-workspace;
+Keywords=jasper;
